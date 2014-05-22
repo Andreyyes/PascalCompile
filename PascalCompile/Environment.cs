@@ -203,7 +203,7 @@ public class Environs
     /// они не связаны с имененем переменной или указателем (могут быть связаны между собой)
     /// </summary>
     /// <returns></returns>
-    public List<EnvironsStuct> GetTrashVariable()
+    public List<EnvironsStuct> GetTrushVariable()
     {
         List<EnvironsStuct> lst = new List<EnvironsStuct>();
         foreach (EnvironsStuct es in enviroment)
