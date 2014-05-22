@@ -111,7 +111,7 @@ namespace PascalCompile
                             continue;
                         }
 
-                        List<Environs.EnvironsStuct> lst = e.GetTrashVariable();
+                        List<Environs.EnvironsStuct> lst = e.GetTrushVariable();
 
                         foreach (Environs.EnvironsStuct item in lst)
                         {
